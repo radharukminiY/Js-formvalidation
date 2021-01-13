@@ -1,0 +1,11 @@
+#ppout{
+  height: 15px;
+  width:100%;
+  visibility: hidden;
+}
+p{
+  color: red;
+}
+span{
+  color: :green;
+}
